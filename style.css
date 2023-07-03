@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+
+#parent {
+   display: table;
+    width: 100%;
+    height: 100%;
+    
+ }
+ #sidebar {
+    display: table-cell;
+    background-color: turquoise;
+    width: 20%;
+    height: 100%;
+    vertical-align: top;
+    box-shadow: inset 0 0 10px black;
+ }
+ #main {
+    display: table-cell;
+    width: 80%;
+    height: 100%;
+    color: aqua;
+ }
+
+ h1 {
+    text-align: center;
+    color: aqua;
+ }
+
+ img {
+    height: 10%;
+    width: 80%;
+ }
+
+ input {
+    color: white;
+    background-color: aquamarine;
+ }
