@@ -8,7 +8,7 @@ body {
     height: 100%;
     
  }
- #sidebar {
+ #films {
     display: table-cell;
     background-color: turquoise;
     width: 20%;
@@ -29,11 +29,23 @@ body {
  }
 
  img {
-    height: 10%;
-    width: 80%;
+    height: 2%;
+    width: 100%;
  }
 
- input {
+ button {
     color: white;
     background-color: aquamarine;
+    font-size: 16px;
+    width: 100%;
+    border: none;
+    border-radius: 12px;
+    padding: 14px 28px;
+    text-align: center;
+    display: block;
  }
+
+.disp{
+   border-color: azure;
+   text-align: center;
+}

@@ -19,4 +19,4 @@ Fork and clone this repo from github into a local folder to access the code.
 Open the folder in your preffered text editor and run the html file through the browser
 
 ### How it works
-On opening the file in the browser the names of the animals and images to be voted for are displayed. The 'vote' button counts the clicks and displays the total number of votes in a hidden paragraph which appears upon voting.
+On opening the file in the browser the names of the movies that have available tickets are displayed. The 'Buy Now' button allows you to buy a ticket and displays the total number of tickets remaining by counting the number of clicks.
